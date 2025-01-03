@@ -24,4 +24,7 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 MYNAME IS HEISENBERG
 
-![The situation](https://github.com/gitgud5/learn-cicd-starter/blob/added-cicd/.github/workflows/ci.yml/badge.svg)
+![The situation][def]
+
+
+[def]: https://github.com/gitgud5/learn-cicd-starter/blob/added-cicd/.github/workflows/ci.yml/badge.svg
