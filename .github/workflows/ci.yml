@@ -42,5 +42,7 @@ jobs:
       
       - name: FMT CHECK FIRST
         run: go fmt
+      
+      - name: Staticcheck
         run: staticcheck ./...
       
